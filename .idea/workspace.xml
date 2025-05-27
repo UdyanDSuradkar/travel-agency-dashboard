@@ -7,6 +7,7 @@
     <list default="true" id="65f00e81-ffce-41eb-9540-20513df0c4de" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/admin/all-users.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/admin/all-users.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Special Projects\flyora-travel-agency\app\routes\admin" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -62,7 +68,7 @@
       <updated>1748270776788</updated>
       <workItem from="1748270778394" duration="2275000" />
       <workItem from="1748277869330" duration="4381000" />
-      <workItem from="1748326414759" duration="2825000" />
+      <workItem from="1748326414759" duration="3833000" />
     </task>
     <servers />
   </component>
