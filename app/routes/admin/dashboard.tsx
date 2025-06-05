@@ -47,7 +47,8 @@ const Dashboard = () => {
               name={trip.name!}
               imageUrl={trip.imageUrls[0]}
               location={trip.itinerary?.[0]?.location ?? ""}
-              tags={[trip.interests!, trip.travelStyle!]}
+              tags={trip.tags}
+              // tags={[trip.interests, trip.travelStyle]}
               price={trip.estimatedPrice!}
             />
           ))}
