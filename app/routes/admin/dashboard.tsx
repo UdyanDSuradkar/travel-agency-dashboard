@@ -1,7 +1,6 @@
 import { Header, StatsCard, TripCard } from "components";
 import { dashboardStats, user, allTrips } from "~/constants";
 import { formatDate } from "~/lib/utils";
-import React from "react";
 
 const { totalUsers, usersJoined, totalTrips, tripsCreated, userRole } =
   dashboardStats;
@@ -9,7 +8,7 @@ const Dashboard = () => {
   return (
     <main className="dashboard wrapper">
       <Header
-        title={`welcome ${user?.name ?? "Guest"}`}
+        title={`Welcome ${user?.name ?? "Guest"}`}
         description="Track activity, trends and popular destinations in real time"
       />
 
