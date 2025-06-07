@@ -1,9 +1,9 @@
 import { Header, StatsCard, TripCard } from "components";
 import { dashboardStats, user, allTrips } from "~/constants";
-import { formatDate } from "~/lib/utils";
 
 const { totalUsers, usersJoined, totalTrips, tripsCreated, userRole } =
   dashboardStats;
+
 const Dashboard = () => {
   return (
     <main className="dashboard wrapper">
